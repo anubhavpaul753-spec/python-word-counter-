@@ -1,2 +1,14 @@
-# python-word-counter-
-Identifying the number of times a word has occured in a file and also printing its respective lines.
+# Python-word-counter-
+
+A simple and authentic Python utility script designed to scan a text file for a specific target word.
+
+## Features
+* **Word Tracking:** Prompts the user for a target word and searches a text file line-by-line.
+* **Line Mapping:** Instantly prints out the exact line numbers where the word is found.
+* **Occurrence Counter:** Displays a final summary of the total number of times the word appeared, or alerts the user if it doesn't exist in the file.
+
+## How to Run
+1. Make sure you have a text file named `f1.txt` in the same directory as the script.
+2. Run the script using Python:
+   ```bash
+   python word_finder.py
